@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "clk.h": "c",
+        "fs.h": "c",
+        "usbd_internal.h": "c",
+        "usbd_hid.h": "c"
+    }
+}
